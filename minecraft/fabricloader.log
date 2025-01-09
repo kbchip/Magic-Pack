@@ -1,0 +1,4 @@
+[21:40:54] [WARN] [FabricLoader/Resolution]: Mod resolution failed
+[21:40:54] [INFO] [FabricLoader/Resolution]: Immediate reason: [HARD_DEP_NO_CANDIDATE betterend_crashed_ships 1.0.0 {depends betterend @ [*]}, ROOT_FORCELOAD_SINGLE betterend_crashed_ships 1.0.0]
+[21:40:54] [INFO] [FabricLoader/Resolution]: Reason: [HARD_DEP betterend_crashed_ships 1.0.0 {depends betterend @ [*]}]
+[21:40:54] [INFO] [FabricLoader/Resolution]: Fix: add [add:betterend 1 ([(-∞,∞)])], remove [], replace []

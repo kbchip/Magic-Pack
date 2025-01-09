@@ -1,0 +1,16 @@
+filename = 'toms_storage-1.20-1.6.9.jar'
+name = "Tom's Simple Storage Mod"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ff0e275cfb9a5a5184ea590b69fa65532b1942d04a96ec86fa6b17ae4019a4f71128c01fa9da46f4f33c8a8dc8f815d5b522feb9a78472ee6e1d2a372a5327de'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XZNI4Cpy/versions/hKLNn4tS/toms_storage-1.20-1.6.9.jar'
+
+[update.modrinth]
+mod-id = 'XZNI4Cpy'
+version = 'hKLNn4tS'

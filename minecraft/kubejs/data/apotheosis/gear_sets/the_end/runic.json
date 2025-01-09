@@ -1,0 +1,128 @@
+{
+	"weight": 10,
+	"mainhands": [
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:runic_chakram"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:runic_scythe"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:runic_rapier"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:runic_glaive"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:runic_warglaive"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:runic_spear"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:runic_sai"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:runic_katana"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:runic_cutlass"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:runic_longsword"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:runic_claymore"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:runic_twinblade"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:runic_greathammer"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:runic_greataxe"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:runic_halberd"
+            }
+        }
+	],
+	"offhands": [{
+		"weight": 1,
+		"stack": {
+			"item": "shieldexp:netherite_shield"
+		}
+	}],
+	"boots": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:netherite_boots"
+		}
+	}],
+	"leggings": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:netherite_leggings"
+		}
+	}],
+	"chestplates": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:netherite_chestplate"
+		}
+	}],
+	"helmets": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:netherite_helmet"
+		}
+	}],
+	"tags": [
+		"the_end"
+	]
+}

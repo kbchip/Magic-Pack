@@ -1,0 +1,16 @@
+filename = 'balm-forge-1.20.1-7.3.10-all.jar'
+name = 'Balm'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'acf39a89bd371e05f567db3ed3732c071e3fbc781993cd9bd38895c0ffd180e3d51edc1a3de714117716105d4894da57aa8cd399a1d8a655e91e74ba272bda76'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MBAkmtvl/versions/9hXDXsUQ/balm-forge-1.20.1-7.3.10-all.jar'
+
+[update.modrinth]
+mod-id = 'MBAkmtvl'
+version = '9hXDXsUQ'

@@ -1,0 +1,151 @@
+{
+	"weight": 100,
+	"mainhands": [{
+			"weight": 3,
+			"stack": {
+				"item": "minecraft:iron_sword"
+			}
+		},
+		{
+			"weight": 3,
+			"stack": {
+				"item": "minecraft:iron_axe"
+			}
+		},
+		{
+			"weight": 2,
+			"stack": {
+				"item": "minecraft:iron_pickaxe"
+			}
+		},
+		{
+			"weight": 2,
+			"stack": {
+				"item": "minecraft:iron_shovel"
+			}
+		},
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:iron_chakram"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:iron_scythe"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:iron_rapier"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:iron_glaive"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:iron_warglaive"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:iron_spear"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:iron_sai"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:iron_katana"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:iron_cutlass"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:iron_longsword"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:iron_claymore"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:iron_twinblade"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:iron_greathammer"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:iron_greataxe"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:iron_halberd"
+            }
+        }
+	],
+	"offhands": [{
+		"weight": 1,
+		"stack": {
+			"item": "shieldexp:iron_shield"
+		}
+	}],
+	"boots": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:iron_boots"
+		}
+	}],
+	"leggings": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:iron_leggings"
+		}
+	}],
+	"chestplates": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:iron_chestplate"
+		}
+	}],
+	"helmets": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:iron_helmet"
+		}
+	}],
+	"tags": [
+		"the_nether"
+	]
+}

@@ -1,0 +1,252 @@
+{
+  "favorites": [
+    {
+      "stack": "item:toms_storage:ts.inventory_connector"
+    },
+    {
+      "stack": "item:toms_storage:ts.crafting_terminal"
+    },
+    {
+      "stack": "item:toms_storage:ts.inventory_cable"
+    },
+    {
+      "stack": "item:toms_storage:ts.trim"
+    },
+    {
+      "stack": "item:toms_storage:ts.wireless_terminal"
+    },
+    {
+      "stack": "item:toms_storage:ts.tag_item_filter"
+    },
+    {
+      "stack": "item:toms_storage:ts.inventory_cable_connector"
+    },
+    {
+      "stack": "item:minecraft:glass"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:dark_oak_log",
+        "amount": 9
+      }
+    },
+    {
+      "stack": "item:apotheosis:gem{affix_data:{rarity:\"apotheosis:uncommon\"},gem:\"irons_spellbooks:cooldown\"}"
+    }
+  ],
+  "lookup_history": [
+    "item:irons_spellbooks:blood_staff{affix_data:{affixes:{\"apotheosis:durable\":0.05f,\"apotheosis:sword/attribute/infernal\":0.60623264f,\"apotheosis:sword/attribute/intricate\":0.47636414f,\"apotheosis:sword/mob_effect/elusive\":0.6586576f,\"apotheosis:sword/mob_effect/weakening\":0.22010338f,\"irons_spellbooks:sword/attribute/mana_regen\":0.5549331f},name:\u0027{\"color\":\"#5555FF\",\"translate\":\"misc.apotheosis.affix_name.three\",\"with\":[{\"translate\":\"affix.apotheosis:sword/attribute/infernal\"},\"\",{\"translate\":\"affix.apotheosis:sword/mob_effect/elusive.suffix\"}]}\u0027,rarity:\"apotheosis:rare\",sockets:2,uuids:[[I;-1752409711,-929870185,-1704633611,915832983]]}}",
+    "item:cataclysm:gauntlet_of_maelstrom",
+    "item:irons_spellbooks:ancient_knowledge_fragment",
+    "item:cataclysm:gauntlet_of_guard",
+    "item:minecraft:obsidian",
+    "item:minecraft:bundle",
+    "item:create:polished_rose_quartz",
+    "item:biomesoplentydelight:rose_quartz_knife{Damage:0}",
+    "item:biomesoplenty:rose_quartz_chunk",
+    "item:savage_and_ravage:conch_of_conjuring{Damage:0}",
+    "item:sereneseasons:calendar",
+    {
+      "type": "item",
+      "id": "waystones:warp_dust",
+      "amount": 4
+    },
+    "item:minecraft:amethyst_shard",
+    "item:irons_spellbooks:shriving_stone",
+    {
+      "type": "item",
+      "id": "irons_spellbooks:evocation_rune",
+      "amount": 2
+    },
+    "item:irons_spellbooks:upgrade_orb",
+    "item:irons_spellbooks:blood_upgrade_orb",
+    "item:irons_spellbooks:copper_spell_book{ISB_Spells:{data:[],maxSpells:5,mustEquip:1b,spellWheel:1b}}",
+    "item:irons_spellbooks:iron_spell_book{ISB_Spells:{data:[],maxSpells:6,mustEquip:1b,spellWheel:1b}}",
+    "item:minecraft:filled_map{Decorations:[{id:\"x\",rot:180.0d,type:26b,x:368.0d,z:1376.0d}],display:{Name:\u0027{\"translate\":\"item.irons_spellbooks.evoker_fort_battle_plans\"}\u0027},map:2}",
+    "item:minecraft:string",
+    "item:supplementaries:sack",
+    "item:irons_spellbooks:magic_cloth",
+    "item:irons_spellbooks:pumpkin_helmet{Damage:0}",
+    "item:minecraft:white_wool",
+    "item:apotheosis:sigil_of_withdrawal",
+    "item:apotheosis:sigil_of_socketing",
+    "item:apotheosis:sigil_of_rebirth",
+    "item:apotheosis:gem_fused_slate",
+    "item:apotheosis:sigil_of_unnaming",
+    "item:irons_spellbooks:pumpkin_chestplate{Damage:0}",
+    "item:minecraft:hay_block",
+    "item:irons_spellbooks:pumpkin_leggings{Damage:0}",
+    "item:irons_spellbooks:pumpkin_boots{Damage:0}",
+    "item:minecraft:leather_helmet{Damage:0}",
+    "item:minecraft:carved_pumpkin",
+    "#item:minecraft:wool",
+    "item:irons_spellbooks:arcane_essence",
+    "item:irons_spellbooks:cooldown_ring",
+    "item:irons_spellbooks:mana_ring",
+    "item:irons_spellbooks:arcane_debris",
+    "item:irons_spellbooks:arcane_salvage",
+    "item:irons_spellbooks:affinity_ring",
+    "item:irons_spellbooks:poisonward_ring",
+    "item:irons_spellbooks:arcane_ingot",
+    "item:irons_spellbooks:frozen_bone",
+    "item:irons_spellbooks:hogskin",
+    "item:irons_spellbooks:graybeard_staff",
+    "item:irons_spellbooks:artificer_cane",
+    {
+      "type": "item",
+      "id": "minecraft:nether_wart_block",
+      "amount": 44
+    },
+    "item:minecraft:written_book{author:\"Archevoker\",display:{Name:\u0027{\"translate\":\"item.irons_spellbooks.archevoker_log\"}\u0027},pages:[\u0027[{\"translate\":\"item.irons_spellbooks.archevoker_log.header\",\"font\":\"illageralt\"},{\"text\":\"2:\\\\n\\\\n\",\"font\":\"default\"},{\"translate\":\"item.irons_spellbooks.archevoker_log.page_1\",\"font\":\"illageralt\"}]\u0027,\u0027[{\"translate\":\"item.irons_spellbooks.archevoker_log.header\",\"font\":\"illageralt\"},{\"text\":\"14:\\\\n\\\\n\",\"font\":\"default\"},{\"translate\":\"item.irons_spellbooks.archevoker_log.page_2\",\"font\":\"illageralt\"}]\u0027,\u0027[{\"translate\":\"item.irons_spellbooks.archevoker_log.header\",\"font\":\"illageralt\"},{\"text\":\"31:\\\\n\\\\n\",\"font\":\"default\"},{\"translate\":\"item.irons_spellbooks.archevoker_log.page_3\",\"font\":\"illageralt\"}]\u0027,\u0027[{\"translate\":\"item.irons_spellbooks.archevoker_log.header\",\"font\":\"illageralt\"},{\"text\":\"73:\\\\n\\\\n\",\"font\":\"default\"},{\"translate\":\"item.irons_spellbooks.archevoker_log.page_4\",\"font\":\"illageralt\"}]\u0027],resolved:1b,title:\"\",untranslatedLogbook:1b}",
+    "item:minecraft:campfire",
+    "item:sleep_tight:hammock_white",
+    "item:sleep_tight:night_bag",
+    "item:sleep_tight:bedbug_eggs",
+    "item:minecraft:totem_of_undying",
+    {
+      "type": "item",
+      "id": "minecraft:amethyst_block",
+      "amount": 10
+    },
+    {
+      "type": "item",
+      "id": "minecraft:baked_potato",
+      "amount": 24
+    },
+    "item:quark:cobblestone_bricks_stairs",
+    "item:toms_storage:ts.paint_kit{Damage:0}",
+    "item:toms_storage:ts.inventory_cable_connector",
+    "item:toms_storage:ts.tag_item_filter",
+    "item:minecraft:comparator",
+    "item:toms_storage:ts.item_filter",
+    "item:minecraft:redstone_torch",
+    "item:toms_storage:ts.inventory_cable_framed",
+    "item:toms_storage:ts.inventory_cable",
+    "item:toms_storage:ts.trim",
+    "#item:minecraft:planks",
+    "item:toms_storage:ts.inventory_connector",
+    "item:toms_storage:ts.inventory_cable_connector_filtered",
+    "item:toms_storage:ts.crafting_terminal",
+    "item:toms_storage:ts.storage_terminal",
+    "item:toms_storage:ts.polymorphic_item_filter",
+    "item:toms_storage:ts.wireless_terminal",
+    "item:toms_storage:ts.adv_wireless_terminal",
+    "item:shieldexp:iron_shield{Damage:0}",
+    "item:morebows:ender_bow{Damage:0}",
+    "item:morebows:frost_bow{Damage:0}",
+    "item:morebows:flame_bow{Damage:0}",
+    "item:morebows:multi_bow{Damage:0}",
+    "item:morebows:iron_bow{Damage:0}",
+    "item:morebows:stone_bow{Damage:0}",
+    "item:morebows:gold_bow{Damage:0}",
+    "item:morebows:diamond_bow{Damage:0}",
+    "item:minecraft:iron_sword{Damage:0}",
+    "item:irons_spellbooks:amethyst_resonance_charm",
+    "item:irons_spellbooks:blood_vial",
+    "item:irons_spellbooks:divine_pearl",
+    "item:irons_spellbooks:lightning_bottle",
+    "item:irons_spellbooks:energized_core",
+    "item:irons_spellbooks:lightning_rod",
+    "item:irons_spellbooks:ice_staff",
+    "item:minecraft:crimson_planks",
+    "item:minecraft:enchanted_book{StoredEnchantments:[{id:\"create:capacity\",lvl:1s}]}",
+    "item:simplyswords:iron_longsword{Damage:0}",
+    "item:minecraft:leather",
+    "item:minecraft:rabbit_hide",
+    "item:irons_spellbooks:alchemist_cauldron",
+    "item:irons_spellbooks:blank_rune",
+    {
+      "type": "item",
+      "id": "apotheosis:uncommon_material",
+      "amount": 10
+    },
+    "item:irons_spellbooks:cinder_essence",
+    "item:irons_spellbooks:common_ink",
+    "item:irons_spellbooks:scroll_forge",
+    "item:minecraft:gilded_blackstone",
+    {
+      "type": "item",
+      "id": "minecraft:crying_obsidian",
+      "amount": 2
+    },
+    "item:quark:feeding_trough",
+    "item:quark:seed_pouch",
+    "item:farmersdelight:dog_food",
+    "item:farmersdelight:skillet{Damage:0}",
+    "item:supplementaries:jar",
+    "item:farmersdelight:cooking_pot",
+    {
+      "type": "item",
+      "id": "farmersdelight:beef_patty",
+      "amount": 4
+    },
+    "item:minecraft:stripped_acacia_log",
+    "item:minecraft:carrot",
+    {
+      "type": "item",
+      "id": "farmersdelight:cabbage_leaf",
+      "amount": 14
+    }
+  ],
+  "craft_history": [
+    "irons_spellbooks:pumpkin_helmet",
+    "supplementaries:doormat_2",
+    "irons_spellbooks:magic_cloth",
+    "minecraft:iron_hoe",
+    "minecraft:shears",
+    "apotheosis:sigil_of_rebirth",
+    "apotheosis:gem_fused_slate",
+    "irons_spellbooks:pumpkin_chestplate",
+    "minecraft:hay_block",
+    "irons_spellbooks:pumpkin_leggings",
+    "irons_spellbooks:pumpkin_boots",
+    "minecraft:bone_meal",
+    "minecraft:leather_helmet",
+    "irons_spellbooks:mana_ring",
+    "irons_spellbooks:arcane_ingot",
+    "irons_spellbooks:artificer_cane",
+    "minecraft:wheat",
+    "minecraft:campfire",
+    "minecraft:kjs/bundle",
+    "minecraft:acacia_chest_boat",
+    "minecraft:acacia_boat",
+    "minecraft:crafting_table",
+    "minecraft:acacia_planks",
+    "quark:tools/crafting/torch_arrow",
+    "toms_storage:tag_item_filter",
+    "minecraft:comparator",
+    "minecraft:redstone_torch",
+    "toms_storage:item_filter",
+    "minecraft:white_wool_from_string",
+    "toms_storage:inventory_cable_framed",
+    "toms_storage:inventory_cable_connector",
+    "minecraft:dark_oak_planks",
+    "toms_storage:trim",
+    "minecraft:iron_pickaxe",
+    "toms_storage:inventory_cable",
+    "minecraft:dark_oak_trapdoor",
+    "toms_storage:crafting_terminal",
+    "toms_storage:storage_terminal",
+    "toms_storage:inventory_connector",
+    "minecraft:stick",
+    "minecraft:glowstone",
+    "irons_spellbooks:scroll_forge",
+    "minecraft:polished_deepslate",
+    "minecraft:dripstone_block",
+    "minecraft:flint_and_steel",
+    "quark:automation/crafting/feeding_trough",
+    "quark:tools/crafting/seed_pouch",
+    "minecraft:leather",
+    "minecraft:bone_meal_from_bone_block",
+    "farmersdelight:skillet",
+    "minecraft:bowl"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

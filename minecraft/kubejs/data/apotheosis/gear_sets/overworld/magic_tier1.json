@@ -1,0 +1,38 @@
+{
+	"weight": 80,
+	"quality": 5,
+	"mainhands": [{
+		"weight": 1,
+		"stack": {
+			"item": "irons_spellbooks:graybeard_staff"
+		}
+	}],
+	"offhands": [],
+	"boots": [{
+		"weight": 1,
+		"stack": {
+			"item": "irons_spellbooks:wandering_magician_boots"
+		}
+	}],
+	"leggings": [{
+		"weight": 1,
+		"stack": {
+			"item": "irons_spellbooks:wandering_magician_leggings"
+		}
+	}],
+	"chestplates": [{
+		"weight": 1,
+		"stack": {
+			"item": "irons_spellbooks:wandering_magician_chestplate"
+		}
+	}],
+	"helmets": [{
+		"weight": 1,
+		"stack": {
+			"item": "irons_spellbooks:wandering_magician_helmet"
+		}
+	}],
+	"tags": [
+		"magic_tier1"
+	]
+}

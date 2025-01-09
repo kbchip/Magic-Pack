@@ -1,0 +1,151 @@
+{
+	"weight": 40,
+	"mainhands": [{
+			"weight": 3,
+			"stack": {
+				"item": "minecraft:netherite_sword"
+			}
+		},
+		{
+			"weight": 3,
+			"stack": {
+				"item": "minecraft:netherite_axe"
+			}
+		},
+		{
+			"weight": 2,
+			"stack": {
+				"item": "minecraft:netherite_pickaxe"
+			}
+		},
+		{
+			"weight": 2,
+			"stack": {
+				"item": "minecraft:netherite_shovel"
+			}
+		},
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:netherite_chakram"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:netherite_scythe"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:netherite_rapier"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:netherite_glaive"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:netherite_warglaive"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:netherite_spear"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:netherite_sai"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:netherite_katana"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:netherite_cutlass"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:netherite_longsword"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:netherite_claymore"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:netherite_twinblade"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:netherite_greathammer"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:netherite_greataxe"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:netherite_halberd"
+            }
+        }
+	],
+	"offhands": [{
+		"weight": 1,
+		"stack": {
+			"item": "shieldexp:netherite_shield"
+		}
+	}],
+	"boots": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:netherite_boots"
+		}
+	}],
+	"leggings": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:netherite_leggings"
+		}
+	}],
+	"chestplates": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:netherite_chestplate"
+		}
+	}],
+	"helmets": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:netherite_helmet"
+		}
+	}],
+	"tags": [
+		"the_end"
+	]
+}

@@ -1,0 +1,151 @@
+{
+	"weight": 70,
+	"mainhands": [{
+			"weight": 3,
+			"stack": {
+				"item": "minecraft:diamond_sword"
+			}
+		},
+		{
+			"weight": 3,
+			"stack": {
+				"item": "minecraft:diamond_axe"
+			}
+		},
+		{
+			"weight": 2,
+			"stack": {
+				"item": "minecraft:diamond_pickaxe"
+			}
+		},
+		{
+			"weight": 2,
+			"stack": {
+				"item": "minecraft:diamond_shovel"
+			}
+		},
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:diamond_chakram"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:diamond_scythe"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:diamond_rapier"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:diamond_glaive"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:diamond_warglaive"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:diamond_spear"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:diamond_sai"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:diamond_katana"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:diamond_cutlass"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:diamond_longsword"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:diamond_claymore"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:diamond_twinblade"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:diamond_greathammer"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:diamond_greataxe"
+            }
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "item": "simplyswords:diamond_halberd"
+            }
+        }
+	],
+	"offhands": [{
+		"weight": 1,
+		"stack": {
+			"item": "shieldexp:diamond_shield"
+		}
+	}],
+	"boots": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:diamond_boots"
+		}
+	}],
+	"leggings": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:diamond_leggings"
+		}
+	}],
+	"chestplates": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:diamond_chestplate"
+		}
+	}],
+	"helmets": [{
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:diamond_helmet"
+		}
+	}],
+	"tags": [
+		"the_end"
+	]
+}

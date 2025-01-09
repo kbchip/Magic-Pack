@@ -1,0 +1,16 @@
+filename = 'waystones-forge-1.20-14.1.6.jar'
+name = 'Waystones'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bc1779174b758ea26abd6858626595f3a5362605bc9cbf5d101f626bff9bff5e92f89ef05266cd5ebebe1ab0ef5f0d9af18e385e280237c116a02010c298e2c7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LOpKHB2A/versions/5LARDzDl/waystones-forge-1.20-14.1.6.jar'
+
+[update.modrinth]
+mod-id = 'LOpKHB2A'
+version = '5LARDzDl'

@@ -1,0 +1,9 @@
+{
+	"x": 2,
+	"y": 48,
+	"width": 98,
+	"height": 20,
+	"langKey": "pack1.big_soda_button",
+	"action": "OPEN_GUI",
+	"data": "SUPPORTERS"
+}
