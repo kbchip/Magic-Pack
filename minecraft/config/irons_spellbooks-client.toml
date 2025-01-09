@@ -44,7 +44,7 @@
 		#Allowed Values: Center, TopCenter, TopLeft, TopRight, BottomLeft, BottomRight
 		recastAnchor = "TopCenter"
 		recastXOffset = 0
-		recastYOffset = 0
+		recastYOffset = 25
 
 [Animations]
 	#What to render in first person while casting.
