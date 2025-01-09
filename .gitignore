@@ -2,12 +2,14 @@ minecraft/.probe
 minecraft/.qmenu_opened.marker
 minecraft/.vscode
 minecraft/coremods
+minecraft/crash-reports
 minecraft/data
 minecraft/defaultconfigs
 minecraft/emi.json
 minecraft/heracles_options.json
 minecraft/icon.png
 minecraft/local
+minecraft/logs
 minecraft/modernfix
 minecraft/options.txt
 minecraft/patchouli_books
@@ -20,3 +22,4 @@ minecraft/server-resource-packs
 minecraft/texturepacks
 minecraft/usercache.json
 minecraft/usernamecache.json
+*.log
