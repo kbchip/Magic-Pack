@@ -1,12 +1,12 @@
-[00:18:26] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[00:18:26] [INIT] Loaded plugins:
-[00:18:26] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[00:18:26] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[00:18:26] [INIT] - dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration
-[00:18:26] [INIT] - com.squoshi.irons_spells_js.IronsSpellsJSPlugin
-[00:18:26] [INIT] - com.sunekaer.sdrp.integration.kubejs.SDRPKubeJSIntegration
-[00:18:26] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[00:18:26] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[00:18:26] [INIT] - com.probejs.ProbeJSPlugin
-[00:18:27] [INFO] Loaded script startup_scripts:item.js in 0.03 s
-[00:18:27] [INFO] Loaded 1/1 KubeJS startup scripts in 0.425 s with 0 errors and 0 warnings
+[00:21:39] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[00:21:39] [INIT] Loaded plugins:
+[00:21:39] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[00:21:39] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[00:21:39] [INIT] - dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration
+[00:21:39] [INIT] - com.squoshi.irons_spells_js.IronsSpellsJSPlugin
+[00:21:39] [INIT] - com.sunekaer.sdrp.integration.kubejs.SDRPKubeJSIntegration
+[00:21:39] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[00:21:39] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[00:21:39] [INIT] - com.probejs.ProbeJSPlugin
+[00:21:40] [INFO] Loaded script startup_scripts:item.js in 0.029 s
+[00:21:40] [INFO] Loaded 1/1 KubeJS startup scripts in 0.463 s with 0 errors and 0 warnings
