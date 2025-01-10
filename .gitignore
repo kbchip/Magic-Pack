@@ -22,4 +22,8 @@ minecraft/server-resource-packs
 minecraft/texturepacks
 minecraft/usercache.json
 minecraft/usernamecache.json
+minecraft/config/embeddium-options.json
+instance.cfg
+minecraft/shaderpacks
 *.log
+minecraft/config/embeddium++.toml
