@@ -207,7 +207,7 @@
 	/**
 	 * How many columns and rows of ingredients to limit the right sidebar to
 	 */
-	right-sidebar-size: 12, 100;
+	right-sidebar-size: 8, 7;
 
 	/**
 	 * How much space to maintain between the right sidebar and obstructions, in pixels
@@ -217,7 +217,7 @@
 	/**
 	 * Where to position the right sidebar
 	 */
-	right-sidebar-align: right, top;
+	right-sidebar-align: left, center;
 
 	/**
 	 * Whether to render the header buttons and page count for the right sidebar
@@ -227,7 +227,7 @@
 	/**
 	 * Which theme to use for the right sidebar
 	 */
-	right-sidebar-theme: modern;
+	right-sidebar-theme: vanilla;
 
 	/**
 	 * The pages in the top sidebar
