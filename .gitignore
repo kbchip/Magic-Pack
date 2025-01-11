@@ -10,6 +10,7 @@ minecraft/heracles_options.json
 minecraft/icon.png
 minecraft/local
 minecraft/logs
+minecraft/map_atlases
 minecraft/modernfix
 minecraft/options.txt
 minecraft/patchouli_books
@@ -27,3 +28,5 @@ instance.cfg
 minecraft/shaderpacks
 *.log
 minecraft/config/embeddium++.toml
+*.properties
+!minecraft/kubejs/**
