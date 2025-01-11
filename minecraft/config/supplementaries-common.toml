@@ -1,17 +1,17 @@
 
 [redstone]
 	wind_vane = true
-	clock_block = true
-	redstone_illuminator = true
-	crank = true
-	cog_block = true
+	clock_block = false
+	redstone_illuminator = false
+	crank = false
+	cog_block = false
 	gold_door = true
 	gold_trapdoor = true
-	lock_block = true
-	relayer = true
+	lock_block = false
+	relayer = false
 
 	[redstone.speaker_block]
-		enabled = true
+		enabled = false
 		#Enable/disable speaker block narrator mode
 		narrator_enabled = true
 		#Max text
@@ -22,7 +22,7 @@
 		range = 64
 
 	[redstone.bellows]
-		enabled = true
+		enabled = false
 		#bellows pushes air following this equation: 
 		#air=(sin(2PI*ticks/period)<0), with period = base_period-(redstone_power-1)*power_scaling 
 		#represents base period at 1 power
@@ -42,7 +42,7 @@
 		range = 5
 
 	[redstone.spring_launcher]
-		enabled = true
+		enabled = false
 		#spring launcher launch speed
 		#Range: 0.0 ~ 16.0
 		velocity = 1.5
@@ -51,7 +51,7 @@
 		fall_height_required = 5
 
 	[redstone.enderman_head]
-		enabled = true
+		enabled = false
 		drop_head = true
 		#Time to increase 1 power level when being looked at
 		#Range: 0 ~ 10000
@@ -60,14 +60,14 @@
 		work_from_any_side = false
 
 	[redstone.turn_table]
-		enabled = true
+		enabled = false
 		#can rotate entities standing on it?
 		rotate_entities = true
 		#Allows turn table to shuffle containers content when rotated over horizontal axis
 		shuffle_containers = true
 
 	[redstone.pulley_block]
-		enabled = true
+		enabled = false
 		#Chance for a new mineshaft elevator piece to spawn
 		#Range: 0.0 ~ 1.0
 		mineshaft_elevator = 0.035
@@ -78,7 +78,7 @@
 		adjust_projectile_angle = true
 
 	[redstone.faucet]
-		enabled = true
+		enabled = false
 		#Turn off to prevent faucets from dropping items
 		spill_items = true
 		#Allows faucets to fill entities inventories
@@ -90,7 +90,7 @@
 		chaining = true
 
 [functional]
-	fodder = true
+	fodder = false
 	hourglass = true
 
 	[functional.rope]
@@ -190,7 +190,7 @@
 			"minecraft:sticky_piston" = "minecraft:piston"
 
 	[functional.cannon]
-		enabled = true
+		enabled = false
 		#Cannon fire power multiplier
 		#Range: 0.0 ~ 5.0
 		fire_power = 0.6
@@ -200,7 +200,7 @@
 		#Time for a cannon to be able to fire again after it has been fired
 		#Range: 0 ~ 500
 		cooldown = 60
-		cannonball = true
+		cannonball = false
 		music_disc_heave_ho = true
 
 	[functional.present]
@@ -645,7 +645,7 @@
 
 	[tweaks.sus_recipes]
 		#Adds recipes to craft suspicious gravel and suspicious sand
-		enabled = true
+		enabled = false
 
 	[tweaks.slimed_effect]
 		enabled = true

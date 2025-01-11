@@ -1,0 +1,20 @@
+{
+  "providers":
+   [
+     {
+       "type": "bitmap",
+       "file":"travelerstitles:font/overworld.png",
+       "ascent":13,
+       "height":13,
+       "chars":["\uE000"]
+     },
+     {
+       "type": "bitmap",
+       "file":"travelerstitles:font/the_nether.png",
+       "ascent":13,
+       "height":13,
+       "chars":["\uE001"]
+     }
+
+   ]
+}
