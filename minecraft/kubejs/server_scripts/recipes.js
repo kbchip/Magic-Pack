@@ -25,4 +25,14 @@ ServerEvents.recipes(event => {
         'farmersdelight:rope',
         'supplementaries:rope'
     )
+
+    // Remove blaze powder from Fire Charge recipe
+    event.remove({ output: 'minecraft:fire_charge' })
+    event.shapeless(
+        Item.of('minecraft:fire_charge', 2),
+        [
+            'minecraft:gunpowder',
+            '#forge:coal'
+        ]
+    )
 })
