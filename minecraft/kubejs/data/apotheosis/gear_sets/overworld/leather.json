@@ -1,0 +1,128 @@
+{
+  "weight": 150,
+  "mainhands": [{
+    "weight": 1,
+    "stack": {
+      "item": "minecraft:wooden_sword"
+    }
+  },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "minecraft:wooden_axe"
+      }
+    },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "dixtas_armory:wooden_dagger"
+      }
+    },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "dixtas_armory:wooden_shortsword"
+        }
+      },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "dixtas_armory:wooden_stiletto"
+      }
+    },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "dixtas_armory:wooden_rapier"
+      }
+    },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "dixtas_armory:wooden_katana"
+      }
+    },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "dixtas_armory:wooden_greatsword"
+      }
+    },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "dixtas_armory:wooden_longsword"
+      }
+    },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "dixtas_armory:wooden_twinblade"
+      }
+    },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "dixtas_armory:wooden_zweihander"
+      }
+    },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "dixtas_armory:wooden_battle_axe"
+      }
+    },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "dixtas_armory:wooden_glaive"
+      }
+    },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "dixtas_armory:wooden_spear"
+      }
+    },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "dixtas_armory:wooden_halberd"
+      }
+    },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "dixtas_armory:wooden_pike"
+      }
+    }
+  ],
+  "offhands": [],
+  "boots": [{
+    "weight": 1,
+    "stack": {
+      "item": "minecraft:leather_boots"
+    }
+  }],
+  "leggings": [{
+    "weight": 1,
+    "stack": {
+      "item": "minecraft:leather_leggings"
+    }
+  }],
+  "chestplates": [{
+    "weight": 1,
+    "stack": {
+      "item": "minecraft:leather_chestplate"
+    }
+  }],
+  "helmets": [{
+    "weight": 1,
+    "stack": {
+      "item": "minecraft:leather_helmet"
+    }
+  }],
+  "tags": [
+    "overworld"
+  ]
+}

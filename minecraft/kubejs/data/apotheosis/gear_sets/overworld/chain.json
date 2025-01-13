@@ -1,0 +1,135 @@
+{
+  "weight": 90,
+  "quality": 2.5,
+  "mainhands": [{
+    "weight": 1,
+    "stack": {
+      "item": "minecraft:stone_sword"
+    }
+  },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "minecraft:stone_axe"
+      }
+    },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "dixtas_armory:stone_dagger"
+      }
+    },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "dixtas_armory:stone_shortsword"
+      }
+    },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "dixtas_armory:stone_stiletto"
+      }
+    },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "dixtas_armory:stone_rapier"
+      }
+    },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "dixtas_armory:stone_katana"
+      }
+    },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "dixtas_armory:stone_greatsword"
+      }
+    },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "dixtas_armory:stone_longsword"
+      }
+    },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "dixtas_armory:stone_twinblade"
+      }
+    },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "dixtas_armory:stone_zweihander"
+      }
+    },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "dixtas_armory:stone_battle_axe"
+      }
+    },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "dixtas_armory:stone_glaive"
+      }
+    },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "dixtas_armory:stone_spear"
+      }
+    },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "dixtas_armory:stone_halberd"
+      }
+    },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "dixtas_armory:stone_pike"
+      }
+    }
+  ],
+  "offhands": [],
+  "boots": [{
+    "weight": 1,
+    "stack": {
+      "item": "minecraft:chainmail_boots"
+    }
+  }],
+  "leggings": [{
+    "weight": 1,
+    "stack": {
+      "item": "minecraft:chainmail_leggings"
+    }
+  }],
+  "chestplates": [{
+    "weight": 1,
+    "stack": {
+      "item": "minecraft:chainmail_chestplate"
+    }
+  }],
+  "helmets": [{
+    "weight": 3,
+    "stack": {
+      "item": "minecraft:chainmail_helmet"
+    }
+  },
+    {
+      "weight": 1,
+      "stack": {
+        "item": "minecraft:turtle_helmet"
+      }
+    }],
+  "tags": [
+    "overworld"
+  ]
+}

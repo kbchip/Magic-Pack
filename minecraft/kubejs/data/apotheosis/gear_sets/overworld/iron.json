@@ -2,119 +2,101 @@
 	"weight": 80,
 	"quality": 5,
 	"mainhands": [{
-			"weight": 3,
-			"stack": {
-				"item": "minecraft:iron_sword"
-			}
-		},
+		"weight": 1,
+		"stack": {
+			"item": "minecraft:iron_sword"
+		}
+	},
 		{
-			"weight": 3,
+			"weight": 1,
 			"stack": {
 				"item": "minecraft:iron_axe"
 			}
 		},
 		{
-			"weight": 2,
+			"weight": 1,
 			"stack": {
-				"item": "minecraft:iron_pickaxe"
+				"item": "dixtas_armory:iron_dagger"
 			}
 		},
 		{
-			"weight": 2,
+			"weight": 1,
 			"stack": {
-				"item": "minecraft:iron_shovel"
+				"item": "dixtas_armory:iron_shortsword"
 			}
 		},
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:iron_chakram"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:iron_scythe"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:iron_rapier"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:iron_glaive"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:iron_warglaive"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:iron_spear"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:iron_sai"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:iron_katana"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:iron_cutlass"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:iron_longsword"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:iron_claymore"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:iron_twinblade"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:iron_greathammer"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:iron_greataxe"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:iron_halberd"
-            }
-        }
+		{
+			"weight": 1,
+			"stack": {
+				"item": "dixtas_armory:iron_stiletto"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "dixtas_armory:iron_rapier"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "dixtas_armory:iron_katana"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "dixtas_armory:iron_greatsword"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "dixtas_armory:iron_longsword"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "dixtas_armory:iron_twinblade"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "dixtas_armory:iron_zweihander"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "dixtas_armory:iron_battle_axe"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "dixtas_armory:iron_glaive"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "dixtas_armory:iron_spear"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "dixtas_armory:iron_halberd"
+			}
+		},
+		{
+			"weight": 1,
+			"stack": {
+				"item": "dixtas_armory:iron_pike"
+			}
+		}
 	],
 	"offhands": [],
 	"boots": [{
