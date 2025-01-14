@@ -1,119 +1,113 @@
 {
 	"weight": 40,
 	"mainhands": [{
-			"weight": 3,
+			"weight": 1,
 			"stack": {
 				"item": "minecraft:netherite_sword"
 			}
 		},
 		{
-			"weight": 3,
+			"weight": 1,
 			"stack": {
 				"item": "minecraft:netherite_axe"
 			}
 		},
 		{
-			"weight": 2,
+			"weight": 1,
 			"stack": {
 				"item": "minecraft:netherite_pickaxe"
 			}
 		},
 		{
-			"weight": 2,
+			"weight": 1,
 			"stack": {
 				"item": "minecraft:netherite_shovel"
 			}
 		},
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:netherite_chakram"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:netherite_scythe"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:netherite_rapier"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:netherite_glaive"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:netherite_warglaive"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:netherite_spear"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:netherite_sai"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:netherite_katana"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:netherite_cutlass"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:netherite_longsword"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:netherite_claymore"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:netherite_twinblade"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:netherite_greathammer"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:netherite_greataxe"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:netherite_halberd"
-            }
+      {
+        "weight": 1,
+        "stack": {
+          "item": "dixtas_armory:netherite_dagger"
         }
+      },
+      {
+        "weight": 1,
+        "stack": {
+          "item": "dixtas_armory:netherite_shortsword"
+        }
+      },
+      {
+        "weight": 1,
+        "stack": {
+          "item": "dixtas_armory:netherite_stiletto"
+        }
+      },
+      {
+        "weight": 1,
+        "stack": {
+          "item": "dixtas_armory:netherite_rapier"
+        }
+      },
+      {
+        "weight": 1,
+        "stack": {
+          "item": "dixtas_armory:netherite_katana"
+        }
+      },
+      {
+        "weight": 1,
+        "stack": {
+          "item": "dixtas_armory:netherite_greatsword"
+        }
+      },
+      {
+        "weight": 1,
+        "stack": {
+          "item": "dixtas_armory:netherite_longsword"
+        }
+      },
+      {
+        "weight": 1,
+        "stack": {
+          "item": "dixtas_armory:netherite_twinblade"
+        }
+      },
+      {
+        "weight": 1,
+        "stack": {
+          "item": "dixtas_armory:netherite_zweihander"
+        }
+      },
+      {
+        "weight": 1,
+        "stack": {
+          "item": "dixtas_armory:netherite_battle_axe"
+        }
+      },
+      {
+        "weight": 1,
+        "stack": {
+          "item": "dixtas_armory:netherite_glaive"
+        }
+      },
+      {
+        "weight": 1,
+        "stack": {
+          "item": "dixtas_armory:netherite_spear"
+        }
+      },
+      {
+        "weight": 1,
+        "stack": {
+          "item": "dixtas_armory:netherite_halberd"
+        }
+      },
+      {
+        "weight": 1,
+        "stack": {
+          "item": "dixtas_armory:netherite_pike"
+        }
+      }
 	],
 	"offhands": [{
 		"weight": 1,

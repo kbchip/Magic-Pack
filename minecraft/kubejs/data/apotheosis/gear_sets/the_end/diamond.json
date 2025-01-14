@@ -1,119 +1,113 @@
 {
 	"weight": 70,
 	"mainhands": [{
-			"weight": 3,
+			"weight": 1,
 			"stack": {
 				"item": "minecraft:diamond_sword"
 			}
 		},
 		{
-			"weight": 3,
+			"weight": 1,
 			"stack": {
 				"item": "minecraft:diamond_axe"
 			}
 		},
 		{
-			"weight": 2,
+			"weight": 1,
 			"stack": {
 				"item": "minecraft:diamond_pickaxe"
 			}
 		},
 		{
-			"weight": 2,
+			"weight": 1,
 			"stack": {
 				"item": "minecraft:diamond_shovel"
 			}
 		},
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:diamond_chakram"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:diamond_scythe"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:diamond_rapier"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:diamond_glaive"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:diamond_warglaive"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:diamond_spear"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:diamond_sai"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:diamond_katana"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:diamond_cutlass"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:diamond_longsword"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:diamond_claymore"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:diamond_twinblade"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:diamond_greathammer"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:diamond_greataxe"
-            }
-        },
-        {
-            "weight": 1,
-            "stack": {
-                "item": "simplyswords:diamond_halberd"
-            }
+      {
+        "weight": 1,
+        "stack": {
+          "item": "dixtas_armory:diamond_dagger"
         }
+      },
+      {
+        "weight": 1,
+        "stack": {
+          "item": "dixtas_armory:diamond_shortsword"
+        }
+      },
+      {
+        "weight": 1,
+        "stack": {
+          "item": "dixtas_armory:diamond_stiletto"
+        }
+      },
+      {
+        "weight": 1,
+        "stack": {
+          "item": "dixtas_armory:diamond_rapier"
+        }
+      },
+      {
+        "weight": 1,
+        "stack": {
+          "item": "dixtas_armory:diamond_katana"
+        }
+      },
+      {
+        "weight": 1,
+        "stack": {
+          "item": "dixtas_armory:diamond_greatsword"
+        }
+      },
+      {
+        "weight": 1,
+        "stack": {
+          "item": "dixtas_armory:diamond_longsword"
+        }
+      },
+      {
+        "weight": 1,
+        "stack": {
+          "item": "dixtas_armory:diamond_twinblade"
+        }
+      },
+      {
+        "weight": 1,
+        "stack": {
+          "item": "dixtas_armory:diamond_zweihander"
+        }
+      },
+      {
+        "weight": 1,
+        "stack": {
+          "item": "dixtas_armory:diamond_battle_axe"
+        }
+      },
+      {
+        "weight": 1,
+        "stack": {
+          "item": "dixtas_armory:diamond_glaive"
+        }
+      },
+      {
+        "weight": 1,
+        "stack": {
+          "item": "dixtas_armory:diamond_spear"
+        }
+      },
+      {
+        "weight": 1,
+        "stack": {
+          "item": "dixtas_armory:diamond_halberd"
+        }
+      },
+      {
+        "weight": 1,
+        "stack": {
+          "item": "dixtas_armory:diamond_pike"
+        }
+      }
 	],
 	"offhands": [{
 		"weight": 1,
