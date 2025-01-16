@@ -36,11 +36,11 @@
       "operation": "ADDITION",
       "values": {
         "common": 2,
-        "uncommon": 4,
-        "rare": 5,
-        "epic": 7,
-        "mythic": 9,
-        "ancient": 13
+        "uncommon": 3,
+        "rare": 4,
+        "epic": 5,
+        "mythic": 6,
+        "ancient": 8
       }
     },
     {
