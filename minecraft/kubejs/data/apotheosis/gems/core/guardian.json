@@ -4,6 +4,7 @@
   "quality": 0,
   "dimensions": [
   ],
+  "min_rarity": "rare",
   "bonuses": [{
     "type": "apotheosis:attribute",
     "gem_class": {
@@ -16,8 +17,8 @@
     "attribute": "minecraft:generic.armor",
     "operation": "ADDITION",
     "values": {
-      //"common": 0.5,
-      //"uncommon": 1,
+      "common": 0.5,
+      "uncommon": 1,
       "rare": 1.5,
       "epic": 2,
       "mythic": 3,
@@ -36,8 +37,8 @@
       "attribute": "attributeslib:life_steal",
       "operation": "ADDITION",
       "values": {
-        //"common": 0.03,
-        //"uncommon": 0.04,
+        "common": 0.03,
+        "uncommon": 0.04,
         "rare": 0.05,
         "epic": 0.06,
         "mythic": 0.08,
@@ -55,8 +56,8 @@
       "attribute": "attributeslib:overheal",
       "operation": "ADDITION",
       "values": {
-        //"common": 0.06,
-        //"uncommon": 0.08,
+        "common": 0.06,
+        "uncommon": 0.08,
         "rare": 0.10,
         "epic": 0.12,
         "mythic": 0.16,
@@ -74,8 +75,8 @@
       "attribute": "minecraft:generic.armor",
       "operation": "MULTIPLY_TOTAL",
       "values": {
-        //"common": 0.05,
-        //"uncommon": 0.10,
+        "common": 0.05,
+        "uncommon": 0.10,
         "rare": 0.10,
         "epic": 0.15,
         "mythic": 0.20,
