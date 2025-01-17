@@ -19,11 +19,11 @@
     "operation": "ADDITION",
     "values": {
       "common": 0.05,
-      "uncommon": 0.10,
-      "rare": 0.15,
-      "epic": 0.20,
-      "mythic": 0.25,
-      "ancient": 0.30
+      "uncommon": 0.075,
+      "rare": 0.10,
+      "epic": 0.125,
+      "mythic": 0.175,
+      "ancient": 0.225
     }
   },
     {
@@ -37,12 +37,12 @@
       "attribute": "attributeslib:crit_damage",
       "operation": "ADDITION",
       "values": {
-        "common": 0.075,
-        "uncommon": 0.15,
-        "rare": 0.225,
-        "epic": 0.3,
-        "mythic": 0.35,
-        "ancient": 0.4
+        "common": 0.1,
+        "uncommon": 0.125,
+        "rare": 0.15,
+        "epic": 0.2,
+        "mythic": 0.25,
+        "ancient": 0.3
       }
     },
     {
