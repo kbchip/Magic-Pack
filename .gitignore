@@ -29,3 +29,5 @@ minecraft/shaderpacks
 minecraft/config/embeddium++.toml
 *.properties
 !minecraft/kubejs/**
+minecraft/config/emi.css
+minecraft/essential
