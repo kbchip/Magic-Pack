@@ -1,21 +1,12 @@
 {
   "type": "apotheosis:mob_effect",
   "mob_effect": "attributeslib:sundering",
-  "target": "ATTACK_TARGET",
+  "target": "ARROW_TARGET",
   "values": {
-    "epic": {
-      "duration": {
-        "min": 100,
-        "steps": 5,
-        "step": 20
-      },
-      "amplifier": 0,
-      "cooldown": 300
-    },
     "mythic": {
       "duration": {
-        "min": 100,
-        "steps": 5,
+        "min": 80,
+        "steps": 2,
         "step": 20
       },
       "amplifier": 0,
@@ -23,15 +14,17 @@
     },
     "ancient": {
       "duration": {
-        "min": 200,
-        "steps": 10,
+        "min": 100,
+        "steps": 8,
         "step": 20
       },
-      "amplifier": 1,
-      "cooldown": 500
+      "amplifier": 0,
+      "cooldown": 300
     }
   },
   "types": [
-    "heavy_weapon"
+    "bow",
+    "crossbow",
+    "trident"
   ]
 }
