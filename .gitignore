@@ -31,3 +31,5 @@ minecraft/config/embeddium++.toml
 !minecraft/kubejs/**
 minecraft/config/emi.css
 minecraft/essential
+minecraft/config/embeddium-fingerprint.json
+minecraft/ops.json
